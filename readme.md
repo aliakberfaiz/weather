@@ -1,5 +1,6 @@
 # Project: weather
 provides weather information on the basis of pincode for any particular date.
+swagger documentation is available on /swagger-ui.html
 ## End-point: weather info valid input and response case
 ### Method: GET
 >```
